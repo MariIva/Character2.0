@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Character2.0</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="view_header">Внешний вид</string>
+    <string name="vid_header">Виды</string>
+
+    <!-- View Preferences -->
+    <string name="view_title">Внешний вид приложения</string>
+
+    <!--  Preferences -->
+    <string name="color_title">Цвет фона</string>
+    <string name="dark_theme_title">Темная тема</string>
+    <string name="costom_theme_title">Своя тема</string>
+    <string name="theme_summary_on">Включена</string>
+    <string name="theme_summary_off">Выключена</string>
+
+
+
+    <string name="page_create">Имя</string>
+    <string name="save">Сохранить</string>
+
+    <string name="name">Имя</string>
+    <string name="sex">Пол</string>
+    <string name="age">Возраст</string>
+    <string name="race">Раса</string>
+
+    <string name="str">Сила</string>
+    <string name="dex">Ловкость</string>
+    <string name="con">Телосложение</string>
+    <string name="intl">Интеллект</string>
+    <string name="wis">Мудрость</string>
+    <string name="charm">Харизма</string>
+</resources>

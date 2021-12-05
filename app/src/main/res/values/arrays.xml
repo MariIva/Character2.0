@@ -1,0 +1,12 @@
+<resources>
+    <!-- View Preference -->
+    <string-array name="view_entries">
+        <item>Стандартный вид</item>
+        <item>Своя тема</item>
+    </string-array>
+
+    <string-array name="view_values">
+        <item>standart</item>
+        <item>costom_theme</item>
+    </string-array>
+</resources>
